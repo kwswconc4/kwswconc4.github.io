@@ -154,7 +154,7 @@ nav .navbar-nav li a:hover {
     }
     iframe{
         width:720px;
-        height: 410px;
+        height:410px;
     }
 }
 @media screen and (max-width: 768px) {
