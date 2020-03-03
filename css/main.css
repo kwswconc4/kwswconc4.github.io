@@ -122,9 +122,6 @@ nav .navbar-nav li a:hover {
     .prof{
         height: 150px;
     }
-    video{
-        width:1000px;
-    }
     .kw{
         width:650px;
     }
@@ -152,9 +149,9 @@ nav .navbar-nav li a:hover {
     .kw0{
         width:100%;
     }
-    iframe{
-        width:720px;
-        height:410px;
+    .video{
+        width:800px;
+        height:500px;
     }
 }
 @media screen and (max-width: 768px) {
@@ -265,7 +262,7 @@ nav .navbar-nav li a:hover {
     .kwra_1{
         width:350px;
     }
-    iframe{
+    .video{
         width:345px;
         height: 220px;
     }
